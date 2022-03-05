@@ -1,0 +1,13 @@
+{
+  "name": "gex3Cheatmenu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gex3Cheatmenu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Carlsche",
+  "credits": [ "denoflions", "PapaSmurf-ML64" ],
+  "license": "GPL-3.0"
+}
